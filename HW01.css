@@ -1,0 +1,13 @@
+#container{
+	width: 60%;
+	height: 70px;
+	margin: 0 auto;
+	background-color: orange;
+}
+.text{
+	width: 80%;
+}
+.my-to-do{
+	color: white;
+	font-weight: 10px;
+}
